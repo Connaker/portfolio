@@ -1,0 +1,13 @@
+{
+  "intro": "My name is Michael Connaker",
+  "heroPhoto": {
+    "src": "../../images/me.jpg",
+    "alt": "My Photo"
+  },
+  "title": "Site Reliability Engineer.",
+  "subtitle": {
+    "prefix": "Cloud Enthusiast. Casual Gamer",
+    "suffix": "."
+  },
+  "description": "Welcome to my website where you can find out more about me."
+}
