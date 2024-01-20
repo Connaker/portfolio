@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Portfolio Project",
+      "title": "Gatsby Portfolio Project",
+      "description": "Online portfolio website using AWS Amplify, Gatsby, and Github.",
+      "tags": ["AWS Amplify", "CI/CD", "GitHub", "Gatsby"],
+      "image": {
+        "src": "../../images/portfolio.jpg",
+        "alt": "portfolio",
+        "linkTo": "https://github.com/Connaker/portfolio"        
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Connaker/portfolio"
+      }]
+    },
+    {
+      "visible": true,
+      "category": "Resume",
+      "title": "Resume challenge Project",
+      "description": "Cloud Resume Challenge. Hosted in AWS using s3.",
+      "tags": [ "AWS ACM", "AWS CloudFront", "AWS s3", "CI/CD", "GitHub"],
+      "image": {
+        "src": "../../images/resume.jpg",
+        "alt": "resume",
+        "linkTo": "https://github.com/Connaker/resume"
+        },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Connaker/resume"
+      }]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "See more on Github",
+    "url": "https://github.com/Connaker?tab=repositories"
+  }
+}

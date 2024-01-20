@@ -1,0 +1,42 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://www.portfolio.connaker.org",
+    "title": "Michael Connaker",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "Michael Connaker's Portfolio website using Gatsby starter Portfolio minimal.",
+    "author": "Michael Connaker",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "",
+    "social": {
+      "behance": "",
+      "github": "https://github.com/Connaker",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/mconnaker/",
+      "mail": ""
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Welcome" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Github", "url": "https://github.com/Connaker"},
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/mconnaker/"}
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "https://resume.connaker.org"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

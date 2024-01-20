@@ -1,0 +1,9 @@
+{
+  "description": "Please feel free to conect me via any of my socials.",
+  "image": {
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
