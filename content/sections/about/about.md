@@ -5,8 +5,6 @@ imageAlt: "About Michael Connaker"
 
 Welcome, Welcome Welcome!
 
-I am a senior engineer of sorts with over ten years of experience in the world of Information Technology. I have dabbled in many different fields of work, including but not limited to networking, systems administration, and desktop administration. 
+As a seasoned engineer with over a decade of experience in Information Technology, I've had the opportunity to explore a diverse range of fields, including networking, systems administration, desktop support, and cloud management. My current focus is on Site Reliability Engineering, where I leverage cloud technologies, CI/CD pipelines, Infrastructure as Code, and scripting to ensure smooth and reliable operations. I'm particularly passionate about Amazon Web Services, where I hold an AWS SysOps Administrator certification.
 
-Currently I am a Site Realiability Engineer utilizing cloud technologies, CI/CD pipelines, Information as Code and Scripting. I specialize in Amazon Web Services where I hold a AWS SysOps Administration certification. 
-
-Aside from all the technical jargon above I am also an avid reader across various genres with a particular soft spot for Sci-Fi and Supernatural, a gamer who has explored countless worlds across multiple platforms over the decades and taking on the challenge achievement of fatherhood to two teenage daughters.
+Beyond the technical landscape, I'm an avid reader with a love for Sci-Fi and Supernatural genres, and a dedicated gamer who has journeyed through countless worlds across various platforms. My most rewarding adventure, however, is fatherhood to two teenage daughters, a role that brings both joy and new challenges every day.
