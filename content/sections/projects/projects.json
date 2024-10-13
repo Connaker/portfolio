@@ -41,8 +41,8 @@
       "description": "Flask weather app using pyowm",
       "tags": [ "AWS App Runner", "Container","AWS ECR", "GitHub"],
       "image": {
-        "src": "../../cloudy.png",
-        "alt": "resume",
+        "src": "../../images/cloudy.png",
+        "alt": "weatherapp",
         "linkTo": "https://github.com/Connaker/pyowm-weatherapp"
         },
       "links": [
