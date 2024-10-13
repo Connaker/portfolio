@@ -33,6 +33,23 @@
           "type": "github",
           "url": "https://github.com/Connaker/resume"
       }]
+    },
+    {
+      "visible": true,
+      "category": "Weather app",
+      "title": "Flask Weather App",
+      "description": "Flask weather app using pyowm",
+      "tags": [ "AWS App Runner", "Container","AWS ECR", "GitHub"],
+      "image": {
+        "src": "https://www.flaticon.com/free-icons/cloud",
+        "alt": "resume",
+        "linkTo": "https://github.com/Connaker/pyowm-weatherapp"
+        },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Connaker/pyowm-weatherapp"
+      }]
     }
   ],
   "button": {
